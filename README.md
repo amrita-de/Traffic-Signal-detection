@@ -25,4 +25,5 @@ Dropout: Reduces overfitting during training.
 Results
 
 Test Accuracy: 98.89% on the Kaggle Traffic Sign Dataset test set.
-![image](https://github.com/user-attachments/assets/5bb54e67-4f27-488d-a43a-745d2c2592f9)
+![Screenshot 2025-06-30 211439](https://github.com/user-attachments/assets/8f3809ef-4782-498c-9b44-aa66742a341b)
+
