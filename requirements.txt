@@ -1,0 +1,9 @@
+Pandas
+Numpy
+tensorflow==2.10.0
+Pillow
+scikit-learn
+keras
+matplotlib
+seaborn
+tkinter
